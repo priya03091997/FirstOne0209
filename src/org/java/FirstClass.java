@@ -12,8 +12,15 @@ public class FirstClass {
         break;
       }
     }
-System.out.println("2nd time changes");
-System.out.println("2nd time changes");
+    System.out.println("2nd time changes");
+    System.out.println("2nd time changes");
+
+    System.out.println("change 1st time");
+    System.out.println("change 1st time");
+
+//<<<<<<< HEAD
+//=======
+//>>>>>>> adf8aec80c13da5cd2dc71f25a415b4fab738aa8
     if (!flag)
       System.out.println(num + " is a prime number.");
     else
